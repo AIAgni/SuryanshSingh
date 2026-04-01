@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Foundations Certification Badge</title>
+  <desc id="desc">Badge showing GitHub Foundations Certification Program Certified</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="560" height="220" rx="24" fill="url(#bg)"/>
+  <rect x="12" y="12" width="536" height="196" rx="18" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="94" cy="110" r="52" fill="#111827" stroke="url(#accent)" stroke-width="8"/>
+  <text x="94" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">GH</text>
+
+  <text x="170" y="88" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#ffffff">GitHub Foundations</text>
+  <text x="170" y="124" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#cbd5e1">Certification Program</text>
+
+  <rect x="170" y="142" width="290" height="38" rx="19" fill="url(#accent)"/>
+  <text x="315" y="167" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#0b1020">CERTIFIED</text>
+</svg>
